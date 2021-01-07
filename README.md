@@ -1,4 +1,4 @@
-# RestaurantRatingPredictionUsingZomatoData
+# Restaurant rating prediction using zomato data
 Predicting rating of a restaurant based on several different factors. This will help us determine which factors play an important role in determining the success of a restaurant, which will in turn help us in making business decisions to run a profitable restaurant. 
 
 What is zomato and why we chose it ?
